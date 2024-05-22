@@ -1,0 +1,2 @@
+# Automated Teller Machine using JAVA
+ Java-based ATM project facilitating basic banking functionalities like balance inquiry, cash withdrawal, deposit, and account transfers. Utilizes object-oriented programming principles and data structures for efficient transaction handling and user interaction. Implements security measures such as user authentication and error handling for robust functionality.
